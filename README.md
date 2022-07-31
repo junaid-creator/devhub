@@ -180,7 +180,7 @@ Follow me on Twitter: [@brunolemos](https://twitter.com/brunolemos)
 
 <br/>
 
-## License
+## License...
 
 Copyright (c) 2019 Bruno Lemos.
 
